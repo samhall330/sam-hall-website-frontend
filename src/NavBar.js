@@ -11,9 +11,9 @@ return(
             <div id="navbarSupportedContent" class="collapse navbar-collapse">
                 <ul class="navbar-nav ml-auto">
                     <li class="nav-item active"><Link className="nav-link" to="/about">About<span class="sr-only">(current)</span></Link></li>
-                    <li class="nav-item"><Link href="#" class="nav-link text-uppercase font-weight-bold">Content</Link></li>
-                    <li class="nav-item"><Link href="#" class="nav-link text-uppercase font-weight-bold">Upcoming Shows</Link></li>
-                    <li class="nav-item"><Link href="#" class="nav-link text-uppercase font-weight-bold">Contact</Link></li>
+                    <li class="nav-item"><Link className="nav-link" to="/content">Content</Link></li>
+                    <li class="nav-item"><Link className="nav-link" to="/upcoming-shows">Upcoming Shows</Link></li>
+                    <li class="nav-item"><Link className="nav-link" to="/contact">Contact</Link></li>
                 </ul>
             </div>
         </div>
