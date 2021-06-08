@@ -10,10 +10,10 @@ return(
             
             <div id="navbarSupportedContent" class="collapse navbar-collapse">
                 <ul class="navbar-nav ml-auto">
-                    <li class="nav-item active"><a href="#" class="nav-link text-uppercase font-weight-bold">About<span class="sr-only">(current)</span></a></li>
-                    <li class="nav-item"><a href="#" class="nav-link text-uppercase font-weight-bold">Content</a></li>
-                    <li class="nav-item"><a href="#" class="nav-link text-uppercase font-weight-bold">Upcoming Shows</a></li>
-                    <li class="nav-item"><a href="#" class="nav-link text-uppercase font-weight-bold">Contact</a></li>
+                    <li class="nav-item active"><Link className="nav-link" to="/about">About<span class="sr-only">(current)</span></Link></li>
+                    <li class="nav-item"><Link href="#" class="nav-link text-uppercase font-weight-bold">Content</Link></li>
+                    <li class="nav-item"><Link href="#" class="nav-link text-uppercase font-weight-bold">Upcoming Shows</Link></li>
+                    <li class="nav-item"><Link href="#" class="nav-link text-uppercase font-weight-bold">Contact</Link></li>
                 </ul>
             </div>
         </div>

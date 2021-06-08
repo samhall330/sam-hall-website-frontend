@@ -9,15 +9,23 @@ import {useHistory} from "react-router-dom";
 import './App.css';
 import NavBar from "./NavBar";
 import About from "./About";
+import Content from "./Content";
+import UpcomingShows from "./UpcomingShows";
+import Contact from "./Contact";
 
 function App() {
 
   return(
     <>
-    <Router>
+    <Switch>
     <NavBar />
+    <Route exact path="/about">
     <About />
-    </Router>
+    </Route>
+    <Content />
+    <UpcomingShows />
+    <Contact />
+    </Switch>
     </>
   );
 
