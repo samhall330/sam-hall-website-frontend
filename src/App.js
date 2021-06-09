@@ -12,6 +12,7 @@ import About from "./About";
 import Content from "./Content";
 import UpcomingShows from "./UpcomingShows";
 import Contact from "./Contact";
+import Home from "./Home";
 
 function App() {
 
@@ -30,6 +31,9 @@ function App() {
     </Route>
     <Route exact path = "/contact">
     <Contact />
+    </Route>
+    <Route>
+    <Home />
     </Route>
     </Switch>
     </>
