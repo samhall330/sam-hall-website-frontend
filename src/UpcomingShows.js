@@ -5,8 +5,8 @@ return(
     <>
 <h1 class="title-header">Show Dates!</h1>
 <ul class= "tour-date-list">
-    <li>Industry Room - Broadway Comedy Club - July 10th</li>
-    <li>Broadway Comedy Club - July 29th</li>
+    <li><a href="https://www.broadwaycomedyclub.com/events/the-industryroom-2021-07-10180000"> <p>July 10th - Industry Room - Broadway Comedy Club</p> </a></li>
+    <li><a href="https://www.broadwaycomedyclub.com/"> <p>July 29th - Broadway Comedy Club</p> </a></li>
 </ul>
 </>
 
