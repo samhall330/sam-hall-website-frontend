@@ -4,8 +4,6 @@ import {
   Route,
   Link
 } from "react-router-dom";
-import {useState, useEffect} from "react";
-import {useHistory} from "react-router-dom";
 import './App.css';
 import NavBar from "./NavBar";
 import About from "./About";
@@ -13,13 +11,15 @@ import Content from "./Content";
 import UpcomingShows from "./UpcomingShows";
 import Contact from "./Contact";
 import Home from "./Home";
+import Header from "./Header";
 
 function App() {
 
   return(
     <>
-    <Switch>
     <NavBar />
+    <Header />
+    <Switch>
     <Route exact path="/about">
     <About />
     </Route>
