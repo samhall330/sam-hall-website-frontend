@@ -2,7 +2,7 @@ import React from "react";
 
 function Home(){
 return(
-<h1>Sam Hall - Stand Up Comic</h1>
+<h1 class="title-header">Sam Hall - Stand Up Comic</h1>
 
 )
 }
