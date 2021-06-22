@@ -20,8 +20,20 @@ return(
                         <a href="https://www.instagram.com/samhallllllllll/" class="social-link social-instagram d-flex align-items-center py-2 rounded-pill shadow-sm"><span class="icon py-1"><i class="fa fa-instagram fa-fw"></i></span><span class="font-weight-bold">Instagram</span></a>
                         </li>
                     </ul>
+                    <form action="mailto:someone@example.com" method="post" enctype="text/plain">
+Name:<br></br>
+<input type="text" name="name"/><br></br>
+E-mail:<br></br>
+<input type="text" name="mail"/><br></br>
+Comment:<br></br>
+<input type="text" name="comment" size="50"/><br></br><br></br>
+<input type="submit" value="Send"/>
+<input type="reset" value="Reset"/>
+</form>
                 </div>
             </div>
+
+            
             
         </div>
     </div>
