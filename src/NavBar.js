@@ -1,6 +1,5 @@
 import React from "react";
-import {Link, NavLink} from "react-router-dom";
-import Navbar from 'react-bootstrap/Navbar'
+import {Link} from "react-router-dom";
 
 function NavBar(){
 return(
@@ -20,7 +19,6 @@ return(
         </div>
     </nav>
 </header>
-
 )
 }
 
