@@ -21,10 +21,9 @@ return(
                         </li>
                     </ul>
                     <form action="mailto:samhallcomedy@gmail.com" method="post" enctype="text/plain">
-Contact via email:<br></br>
-<input type="text" /><br></br>
-<input type="submit" value="Drop me a line!"/>
-</form>
+                        Contact via email:<br></br>     
+                        <input type="submit" value="Drop me a line!"/>
+                    </form>
                 </div>
             </div>
 
