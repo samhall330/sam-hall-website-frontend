@@ -20,8 +20,7 @@ return(
                         <a href="https://www.instagram.com/samhallllllllll/" class="social-link social-instagram d-flex align-items-center py-2 rounded-pill shadow-sm"><span class="icon py-1"><i class="fa fa-instagram fa-fw"></i></span><span class="font-weight-bold">Instagram</span></a>
                         </li>
                     </ul>
-                    <form action="mailto:samhallcomedy@gmail.com" method="post" enctype="text/plain">
-                        Contact via email:<br></br>     
+                    <form  class="email-button" action="mailto:samhallcomedy@gmail.com" method="post" enctype="text/plain">Contact via email(if you're old):<br></br>     
                         <input type="submit" value="Drop me a line!"/>
                     </form>
                 </div>
