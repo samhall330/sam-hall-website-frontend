@@ -40,14 +40,15 @@
 .title-header {
   font-family: 'Courier New', Courier, monospace;
   position: relative;
-  left: 30px;
+  left: 550px;
   top: 100px;
 }
 .about-me-text{
   font-family: 'Courier New', Courier, monospace;
   position: relative;
   left: 30px;
-  top: 150px;
+  top: 100px;
+  
 }
 
 .tour-date-list{
@@ -86,7 +87,10 @@
  background-color: #008CBA;
 }
 
-/* .about-img{
+.about-img{
+  position: relative;
+  left: 450px;
+  top: 150px;
+}
 
-} */
 
