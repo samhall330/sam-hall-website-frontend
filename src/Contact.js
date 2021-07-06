@@ -4,10 +4,8 @@ function Contact(){
 return(
     <>
 <h1 class="title-header">Contact me!</h1>
-<a href="#" class="fa fa-facebook"></a>
-                        <a href="#" class="fa fa-twitter"></a>
 
-{/* <div class="container">
+<div class="container">
     <div class="row">
         <div class="col-lg-7 mx-auto text-center">
             
@@ -15,15 +13,15 @@ return(
             
             <div class="card mb-4 shadow-sm">
                 <div class="card-body p-5">
+                <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"/>
                     <ul class="list-unstyled">
+
                         <li class="mb-2">
-                            <a href="https://twitter.com/samhallllllllll" class="social-link social-twitter d-flex align-items-center py-2 rounded-pill shadow-sm"><span class="icon py-1"><i class="fa fa-twitter fa-fw"></i></span><span class="font-weight-bold">Twitter</span></a>
+                            <a href="https://twitter.com/samhallllllllll" class="fa fa-twitter"><span class="icon py-1"><i class="fa fa-twitter fa-fw"></i></span><span class="font-weight-bold"></span></a>
                         </li>
                         <li class="mb-2">
-                        <a href="https://www.instagram.com/samhallllllllll/" class="social-link social-instagram d-flex align-items-center py-2 rounded-pill shadow-sm"><span class="icon py-1"><i class="fa fa-instagram fa-fw"></i></span><span class="font-weight-bold">Instagram</span></a>
+                        <a href="https://www.instagram.com/samhallllllllll/" class="fa fa-instagram"><span class="icon py-1"><i class="fa fa-instagram fa-fw"></i></span><span class="font-weight-bold"></span></a>
                         </li>
-                        <a href="#" class="fa fa-facebook"></a>
-                        <a href="#" class="fa fa-twitter"></a>
                     </ul>
                     <form  class="email-box" action="mailto:samhallcomedy@gmail.com" method="post" enctype="text/plain">Contact via email (if you're old)<br></br>     
                         <input class ="email-button" type="submit" value="Drop me a line!"/>
@@ -35,7 +33,7 @@ return(
             
         </div>
     </div>
-</div> */}
+</div>
 </>
 
 )
