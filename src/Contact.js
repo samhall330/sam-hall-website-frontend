@@ -17,10 +17,10 @@ return(
                     <ul class="list-unstyled">
 
                         <li class="mb-2">
-                            <a href="https://twitter.com/samhallllllllll" class="fa fa-twitter"><span class="icon py-1"></span><span class="font-weight-bold"></span></a>
+                            <a href="https://twitter.com/samhallllllllll" class="fa fa-twitter"><span class="icon py-1"></span><span class="font-weight-bold"></span>Twitter</a>
                         </li>
                         <li class="mb-2">
-                        <a href="https://www.instagram.com/samhallllllllll/" class="fa fa-instagram"><span class="icon py-1"></span><span class="font-weight-bold"></span></a>
+                        <a href="https://www.instagram.com/samhallllllllll/" class="fa fa-instagram"><span class="icon py-1"></span><span class="font-weight-bold"></span>Instagram</a>
                         </li>
                     </ul>
                     <form  class="email-box" action="mailto:samhallcomedy@gmail.com" method="post" enctype="text/plain">Contact via email (if you're old)<br></br>     

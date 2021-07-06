@@ -40,7 +40,7 @@
 .title-header {
   font-family: 'Courier New', Courier, monospace;
   position: relative;
-  left: 200px;
+  left: 100px;
   top: 100px;
 }
 .about-me-text{
@@ -74,16 +74,15 @@
 
 .email-button {
  display:inline-block;
- padding:0.3em 1.2em;
- margin:0 0.3em 0.3em 0;
- border-radius:2em;
+ margin: 0 0.3em 0.3em 0;
+ border-radius: 2em;
  box-sizing: border-box;
- text-decoration:none;
+ text-decoration: none;
  font-family:'Roboto',sans-serif;
- font-weight:300;
- color:#FFFFFF;
- background-color:#4eb5f1;
- text-align:center;
+ font-weight: 300;
+ color: #FFFFFF;
+ background-color: #4eb5f1;
+ text-align: center;
  transition: all 0.2s;
  background-color: #008CBA;
 }
@@ -95,9 +94,9 @@
 }
 
 .fa-instagram {
-  background: #125688;
+  background: #cc285f;
   color: white;
-  size: 50px;
+  size: 20px;
 }
 .fa-twitter {
   background: #55ACEE;

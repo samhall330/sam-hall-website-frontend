@@ -1,4 +1,5 @@
 import React from "react";
+import ReactPlayer from 'react-player'
 
 function Content(){
 return(
@@ -6,6 +7,7 @@ return(
 <h1 class="title-header">Check Out My Content</h1>
 <ul class= "tour-date-list">
     <h1>Hot Bits!</h1>
+    <ReactPlayer url="https://www.instagram.com/tv/B-L8ACeA7UT/" />
     <li><a href="https://www.instagram.com/tv/B-L8ACeA7UT/"> <p>Mascara is Over Sexualized (Writer, Editor)</p> </a></li>
     <h1>Series</h1>
     <li><a href="https://www.instagram.com/tv/CDj43MyAUds/"> <p>Great Interracial Baking Show - Episode 1 "Introductions" (Actor, Producer, Editor)</p> </a></li>
