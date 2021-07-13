@@ -7,7 +7,6 @@ return(
 <h1 class="title-header">Check Out My Content</h1>
 <ul class= "tour-date-list">
     <h1>Hot Bits!</h1>
-    <ReactPlayer url="https://www.instagram.com/tv/B-L8ACeA7UT/" />
     <li><a href="https://www.instagram.com/tv/B-L8ACeA7UT/"> <p>Mascara is Over Sexualized (Writer, Editor)</p> </a></li>
     <h1>Series</h1>
     <li><a href="https://www.instagram.com/tv/CDj43MyAUds/"> <p>Great Interracial Baking Show - Episode 1 "Introductions" (Actor, Producer, Editor)</p> </a></li>
@@ -17,6 +16,7 @@ return(
     <li><a href="https://www.instagram.com/tv/CFs0oSOAC_D/"> <p>"Scary Toilet"(Producer, Director, Editor)</p> </a></li>
     <li><a href="https://www.instagram.com/p/CMaGliqA_LY/"> <p>"Mum Fights"(Producer, Actor, Director, Editor)</p> </a></li>
     <h1>Acting!</h1>
+    <ReactPlayer url="https://www.instagram.com/tv/B-L8ACeA7UT/" />
     <li><a href="https://www.youtube.com/watch?v=p6YyimoY47Y&ab_channel=HaleynaKociuk-Garza"> <p>"Horror Derves - Episode 1 - What Doesn't Kill You Makes You Stranger" (Actor- "Mom")</p> </a></li>
 
 
