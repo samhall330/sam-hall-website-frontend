@@ -7,6 +7,7 @@ import gibs3 from './gibs-ep3.jpg'
 import scary from './scary-toilet.jpg'
 import mumfights from './mum-fights.jpg'
 import stranger from './killyoustranger.jpg'
+import Link from "react-router-dom"
 
 
 function Content(){
@@ -15,8 +16,9 @@ return(
 <h1 class="title-header">Check Out My Content</h1>
 <ul class= "tour-date-list">
     <h1>Hot Bits!</h1>
+    <a href="https://www.instagram.com/tv/B-L8ACeA7UT/">
     <img src={mascara} alt="audio recording of a stand up bit by Sam Hall" width="400" height="200"></img>
-    <li><a href="https://www.instagram.com/tv/B-L8ACeA7UT/"> <p>Mascara is Over Sexualized (Writer, Editor)</p> </a></li>
+    </a>
     <h1>Series</h1>
     <img src={gibs1} alt="the great interracial baking show episode 1" width="400" height="200"></img>
     <li><a href="https://www.instagram.com/tv/CDj43MyAUds/"> <p>Great Interracial Baking Show - Episode 1 "Introductions" (Actor, Producer, Editor)</p> </a></li>
