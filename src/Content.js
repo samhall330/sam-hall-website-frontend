@@ -38,16 +38,22 @@ return(
     <h5>Great Interracial Baking Show - Episode 3 "Caucasian Cornbread" (Actor, Producer, Editor)</h5>
     <br></br>
     <h1>Short Shorts</h1>
+    <a href="https://www.instagram.com/p/CFsyxtoAv1j/">
     <img src={scary} alt="a comedy short film called Scary Toilet" width="400" height="200"></img>
-    <li><a href="https://www.instagram.com/tv/CFs0oSOAC_D/"> <p>"Scary Toilet"(Producer, Director, Editor)</p> </a></li>
+    </a>
+    <h5>"Scary Toilet"(Producer, Director, Editor)</h5>
+    <br></br>
+    <a href="https://www.instagram.com/p/CMaGliqA_LY/">
     <img src={mumfights} alt="a comedy sketch called Mum Fights" width="400" height="200"></img>
-    <li><a href="https://www.instagram.com/p/CMaGliqA_LY/"> <p>"Mum Fights"(Producer, Actor, Director, Editor)</p> </a></li>
+    </a>
+    <h5>"Mum Fights"(Producer, Actor, Director, Editor)</h5>
     <br></br>
     <h1>Acting!</h1>
+    <a href="https://www.youtube.com/watch?v=p6YyimoY47Y&ab_channel=HaleynaKociuk-Garza">
     <img src={stranger} alt="Horror Derves Episode 1" width="400" height="200"></img>
-    <li><a href="https://www.youtube.com/watch?v=p6YyimoY47Y&ab_channel=HaleynaKociuk-Garza"> <p>"Horror Derves - Episode 1 - What Doesn't Kill You Makes You Stranger" (Actor- "Mom")</p> </a></li>
-
-
+    </a>
+    <h5>"Horror Derves - Episode 1 - What Doesn't Kill You Makes You Stranger" (Actor- "Mom")</h5>
+    <br></br>
 </ul>
 </>
 )
