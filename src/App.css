@@ -91,7 +91,7 @@
   position: relative;
   left: 450px;
   top: 150px;
-  border: 20px dotted rgb(241, 253, 69);
+  border: 20px dotted rgb(238, 229, 65);
   padding: 10px;
 }
 .about-img:hover {
@@ -111,6 +111,12 @@
 .broadway-tape {
   position: relative;
   left: 400px;
-  top: 200px;
+  top: 175px;
   border: ;
+}
+.broadway-tape-header {
+  position: relative;
+  left: 450px;
+  top: 150px;
+
 }
