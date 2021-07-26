@@ -93,9 +93,10 @@
   top: 150px;
   border: 20px dotted rgb(238, 229, 65);
   padding: 10px;
+  transition: border .25s;
 }
 .about-img:hover {
-  border: 20px dotted gray;   
+  border: 20px dotted gray; 
 }
 
 .fa-instagram {
@@ -112,11 +113,31 @@
   position: relative;
   left: 400px;
   top: 175px;
-  border: ;
+  border: 20px dotted rgb(238, 229, 65);
+  padding: 10px;
+  transition: border .25s;
 }
+
+.broadway-tape:hover {
+  border: 20px dotted gray;
+}
+
 .broadway-tape-header {
   position: relative;
   left: 450px;
   top: 150px;
+}
 
+.content-links {
+  position: relative;
+  border: 20px dotted rgb(238, 229, 65);
+  padding: 10px;
+  transition: border .25s;
+  width: 400;
+  height: 200;
+  text-align: center;
+}
+
+.content-links:hover {
+  border: 20px dotted gray;
 }
