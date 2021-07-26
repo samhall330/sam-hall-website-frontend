@@ -37,6 +37,9 @@ function App() {
     <Route exact path = "/home">
     <Home />
     </Route>
+    <Route exact path = "/">
+    <Home />
+    </Route>
     </Switch>
     </>
   );
