@@ -15,7 +15,7 @@ return(
     <>
 <h1 class="title-header">Check Out My Content!</h1>
 
-<ul class= "tour-date-list">
+<div class= "tour-date-list">
     <h1>Hot Bits!</h1>
         <a href="https://www.instagram.com/tv/B-L8ACeA7UT/">
             <img class="content-links" src={mascara} alt="audio recording of a stand up bit by Sam Hall" width="600" height="300"></img>
@@ -55,7 +55,7 @@ return(
         </a>
         <h5>"Horror Derves - Episode 1 - What Doesn't Kill You Makes You Stranger" (Actor- "Mom")</h5>
     <br></br>
-</ul>
+</div>
 
 </>
 )
