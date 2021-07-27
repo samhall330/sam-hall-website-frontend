@@ -9,10 +9,18 @@ return(
     <>
 <h1 class="title-header">Contact me!</h1>
     <div class="social-links">
-        <img src={instagram}></img>
-        <img src={twitter}></img>
-        <img src={facebook}></img>
-        <img src={youtube}></img>
+        <a href="https://www.instagram.com/samhallllllllll/">
+            <img class="social-link-img" src={instagram}></img>
+        </a>
+        <a href="https://twitter.com/samhallllllllll">
+            <img src={twitter}></img>
+        </a>
+        <a href="https://www.facebook.com/samantha.mann.77398143">
+            <img src={facebook}></img>
+        </a>
+        <a href="">
+            <img src={youtube}></img>
+        </a>
     </div>
     <form class="email-box" action="mailto:samhallcomedy@gmail.com" method="post" enctype="text/plain">Contact via email (if you're old)<br></br>     
         <input class ="email-button" type="submit" value="Drop me a line!"/>

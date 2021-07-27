@@ -147,11 +147,14 @@ cursor: pointer;
   /* border: 20px dotted rgb(238, 229, 65); */
   padding: 10px;
   transition: border .25s;
+  cursor:pointer
 }
 
-.social-links:hover {
-  /* border: 20px dotted gray; */
+.social-link-image:hover {
+  background-color: gray;
 }
+
+
 
 
 
