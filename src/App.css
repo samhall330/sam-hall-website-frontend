@@ -72,7 +72,7 @@
   font-size: 24px;
   position: relative;
   left: 450px;
-  top: 450px;
+  top: 300px;
   border: 20px dotted rgb(238, 229, 65);
   padding: 10px;
   transition: border .25s;
@@ -96,7 +96,7 @@ cursor: pointer;
 
 .about-img{
   position: relative;
-  left: 450px;
+  left: 475px;
   top: 150px;
   border: 20px dotted rgb(238, 229, 65);
   padding: 10px;
@@ -104,16 +104,6 @@ cursor: pointer;
 }
 .about-img:hover {
   border: 20px dotted gray; 
-}
-
-.fa-instagram {
-  background: #cc285f;
-  color: white;
-  size: 20px;
-}
-.fa-twitter {
-  background: #55ACEE;
-  color: white;
 }
 
 .broadway-tape {
@@ -148,5 +138,20 @@ cursor: pointer;
 .content-links:hover {
   border: 20px dotted gray;
 }
+
+.social-links {
+  position: relative;
+  top: 200px;
+  margin: auto;
+  left: 450px;
+  /* border: 20px dotted rgb(238, 229, 65); */
+  padding: 10px;
+  transition: border .25s;
+}
+
+.social-links:hover {
+  /* border: 20px dotted gray; */
+}
+
 
 
