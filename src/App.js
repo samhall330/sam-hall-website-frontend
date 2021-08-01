@@ -18,7 +18,8 @@ import ReactPlayer from "react-player";
 function App() {
 
   return(
-    <>
+    
+<div className="main-div">
     <NavBar />
     <Header />
     <Switch>
@@ -41,7 +42,8 @@ function App() {
     <Home />
     </Route>
     </Switch>
-    </>
+    </div>
+    
   );
 
 }
