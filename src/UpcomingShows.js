@@ -63,11 +63,11 @@ return(
   <li>30</li>
   <li>31</li>
 </ul>
-
-<div class= "tour-date-list">
-    <a href="https://greenwichvillagecomedyclub.com/calendar/2021-08?day=04"> <p>August 4th - Greenwich Village Comedy Club</p></a>
-</div>
-
+<ul class= "tour-date-list">
+<h1>Get Tickets!</h1>
+    <li><a href="https://greenwichvillagecomedyclub.com/calendar/2021-08?day=04"> <p>Wednesday, August 4th - Greenwich Village Comedy Club</p></a></li>
+</ul>
+<br></br>
 
 </>
 )
