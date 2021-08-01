@@ -3,11 +3,14 @@ import facebook from "./facebook.png"
 import instagram from "./instagram.png"
 import twitter from "./twitter.png"
 import youtube from "./youtube.png"
+import contactheader from "./contact-header.jpg"
 
 function Contact(){
 return(
     <>
-<h1 class="title-header">Slide into my DMs!</h1>
+<h1 className="contact-header">
+    <img src= {contactheader} alt="Slide Into My DMs!" width="300" height="200"></img>
+</h1>
     <div class="social-links">
         <a href="https://www.instagram.com/samhallllllllll/">
             <img class="social-link-img" src={instagram}></img>

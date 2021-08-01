@@ -7,13 +7,15 @@ import gibs3 from './gibs-ep3.jpg'
 import scary from './scary-toilet.jpg'
 import mumfights from './mum-fights.jpg'
 import stranger from './killyoustranger.jpg'
-import Link from "react-router-dom"
+import mycontent from './my-content-header.jpg'
 
 
 function Content(){
 return(
     <>
-<h1 class="title-header">Check out my Content!</h1>
+<h1 class="title-header">
+    <img src={mycontent} alt="My Content" width="500" height="300"></img>
+</h1>
 
 <div class= "content-list">
     <h1>Hot Bits!</h1>

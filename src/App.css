@@ -53,15 +53,15 @@
   font-family: 'Courier New', Courier, monospace;
   position: relative;
   left: 100px;
-  top: 100px;
+  top: 00px;
   margin: auto;
-  padding: 10px;
+  padding: 0px;
 }
 .about-me-text{
   font-family: 'Courier New', Courier, monospace;
   position: relative;
   left: 30px;
-  top: 100px;
+  top: 00px;
   
 }
 
@@ -78,7 +78,7 @@
   font-family: 'Courier New', Courier, monospace;
   position: relative;
   left: 30px;
-  top: 150px;
+  top: 0px;
   margin: auto;
   text-align: center;
 }
@@ -93,7 +93,7 @@
   font-size: 24px;
   position: relative;
   left: 450px;
-  top: 300px;
+  top: 00px;
   border: 20px dotted rgb(238, 229, 65);
   padding: 10px;
   transition: border .25s;
@@ -101,6 +101,13 @@
 
 .email-box:hover {
   border: 20px dotted gray;
+}
+
+.about-me-header {
+  text-align: center;
+  top:0px;
+  left: 400px;
+
 }
 
 .email-button {
@@ -118,7 +125,7 @@ cursor: pointer;
 .about-img{
   position: relative;
   left: 475px;
-  top: 150px;
+  top: 10px;
   border: 20px dotted rgb(238, 229, 65);
   padding: 10px;
   transition: border .25s;
@@ -162,7 +169,7 @@ cursor: pointer;
 
 .social-links {
   position: relative;
-  top: 200px;
+  top: 00px;
   margin: auto; 
   /* text-align: center; */
   /* border: 20px dotted rgb(238, 229, 65); */
@@ -170,6 +177,11 @@ cursor: pointer;
   left: 345px;
   transition: border .25s;
   cursor:pointer
+}
+
+.contact-header {
+  top: 50px;
+  padding:20px;
 }
 /* 
 .social-link-image:hover {
