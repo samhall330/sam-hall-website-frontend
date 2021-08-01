@@ -13,9 +13,9 @@ import Link from "react-router-dom"
 function Content(){
 return(
     <>
-<h1 class="title-header">Check Out My Content!</h1>
+<h1 class="title-header">Check out my Content!</h1>
 
-<div class= "tour-date-list">
+<div class= "content-list">
     <h1>Hot Bits!</h1>
         <a href="https://www.instagram.com/tv/B-L8ACeA7UT/">
             <img class="content-links" src={mascara} alt="audio recording of a stand up bit by Sam Hall" width="600" height="300"></img>
