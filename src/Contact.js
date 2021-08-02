@@ -9,7 +9,7 @@ function Contact(){
 return(
     <>
 <h1 className="contact-header">
-    <img src= {contactheader} alt="Slide Into My DMs!" width="300" height="200"></img>
+    <img src= {contactheader} alt="Slide Into My DMs!" width="500" height="300"></img>
 </h1>
     <div class="social-links">
         <a href="https://www.instagram.com/samhallllllllll/">
