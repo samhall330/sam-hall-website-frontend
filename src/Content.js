@@ -14,7 +14,7 @@ function Content(){
 return(
     <>
 <h1 class="title-header">
-    <img src={mycontent} alt="My Content" width="400" height="300"></img>
+    <img src={mycontent} alt="My Content" width="500" height="400"></img>
 </h1>
 
 <div class= "content-list">
