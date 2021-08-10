@@ -110,6 +110,14 @@
 
 }
 
+.samhall-header {
+  text-align: center;
+  top:0px;
+  left: 400px;
+  padding: 0px;
+
+}
+
 .email-button {
  margin: 0 0.3em 0.3em 0;
  border-radius: 2em;
@@ -137,7 +145,7 @@ cursor: pointer;
 .broadway-tape {
   position: relative;
   left: 400px;
-  top: 175px;
+  top: 100px;
   border: 20px dotted rgb(238, 229, 65);
   padding: 10px;
   transition: border .25s;
@@ -149,8 +157,8 @@ cursor: pointer;
 
 .broadway-tape-header {
   position: relative;
-  left: 450px;
-  top: 150px;
+  left: 425px;
+  top: 90px;
 }
 
 .content-links {
