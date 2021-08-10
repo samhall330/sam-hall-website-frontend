@@ -232,7 +232,7 @@ body {font-family: Verdana, sans-serif;}
 .month {
   padding: 70px 25px;
   width: 100%;
-  background: #ace5d9d8;
+  background: rgb(235, 243, 126);
   text-align: center;
 }
 
@@ -242,7 +242,7 @@ body {font-family: Verdana, sans-serif;}
 }
 
 .month ul li {
-  color: white;
+  color: rgb(253, 175, 188);
   font-size: 40px;
   text-transform: uppercase;
   letter-spacing: 3px;
@@ -261,7 +261,7 @@ body {font-family: Verdana, sans-serif;}
 .weekdays {
   margin: 0;
   padding: 10px 0;
-  background-color: #d189c4be;
+  background-color: rgb(253, 175, 188);
 }
 
 .weekdays li {
@@ -273,7 +273,7 @@ body {font-family: Verdana, sans-serif;}
 
 .days {
   padding: 10px 0;
-  background: #ace5d9cf;
+  background: rgba(235, 243, 126, 0.911);
   margin: 0;
 }
 
@@ -284,12 +284,12 @@ body {font-family: Verdana, sans-serif;}
   text-align: center;
   margin-bottom: 0px;
   font-size:20px;
-  color: rgb(247, 243, 243);
+  color: #d189c4be;
 }
 
 .days li .active {
   padding: 8px;
-  background: #d189c4ab;
+  background: rgb(253, 175, 188);
   color: white !important
 }
 
