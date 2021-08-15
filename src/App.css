@@ -68,15 +68,20 @@
   
 }
 
-.content-list{
+.content-list {
   font-family: 'Courier New', Courier, monospace;
   position: absolute;
-  left: 350px;
+  left: 300px;
   top: 235px;
   margin: auto;
   text-align: center;
   color: rgb(253, 175, 188);
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding: 10px;
+}
+
+.content-caption {
+  padding: 15px;
 }
 
 .about-me-header {
