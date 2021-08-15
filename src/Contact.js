@@ -25,7 +25,7 @@ return(
             <img class="social-link-img" src={youtube}></img>
         </a>
     </div>
-    <form class="email-box" action="mailto:samhallcomedy@gmail.com" method="post" enctype="text/plain">Contact via email (if you're old)<br></br>     
+    <form class="email-box" action="mailto:samhallcomedy@gmail.com" method="post" enctype="text/plain">If you're old, shoot me an email<br></br>     
         <input class ="email-button" type="submit" value="Drop me a line!"/>
     </form>
 </>
