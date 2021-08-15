@@ -94,7 +94,8 @@ font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   color: rgb(253, 175, 188);
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   padding: 50px;
-  margin: auto;
+  /* margin: auto; */
+  align-content: center;
   text-align: center;
   text-decoration: none;
   display: inline-block;
@@ -161,10 +162,12 @@ border-radius: 5mm;
 .broadway-tape {
   position: relative;
   left: 400px;
-  top: 100px;
+  top: 20px;
+  bottom: 100px;
   border: 20px dotted rgb(238, 229, 65);
   padding: 10px;
   transition: border .25s;
+  
 }
 
 .broadway-tape:hover {
@@ -174,7 +177,7 @@ border-radius: 5mm;
 .broadway-tape-header {
   position: relative;
   left: 475px;
-  top: 90px;
+  top: 0px;
   color: rgb(253, 175, 188);
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
@@ -232,7 +235,7 @@ body {font-family: Verdana, sans-serif;}
 .month {
   padding: 70px 25px;
   width: 100%;
-  background: rgb(235, 243, 126);
+  background: rgb(238, 229, 65);
   text-align: center;
 }
 
@@ -273,7 +276,7 @@ body {font-family: Verdana, sans-serif;}
 
 .days {
   padding: 10px 0;
-  background: rgba(235, 243, 126, 0.911);
+  background: rgb(238, 229, 65);
   margin: 0;
 }
 

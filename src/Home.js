@@ -1,5 +1,5 @@
 import React from "react";
-import YouTube from 'react-youtube';
+// import YouTube from 'react-youtube';
 import ReactPlayer from "react-player";
 import samhall from "./sam-hall.jpg"
 
@@ -11,7 +11,7 @@ return(
 </h1>
 
 <h3 class="broadway-tape-header">Broadway Comedy Club - July 10th, 2021</h3>
-      <ReactPlayer class="broadway-tape"url="https://youtu.be/Jo-AXTqQAME"/>
+    <ReactPlayer class="broadway-tape"url="https://youtu.be/Jo-AXTqQAME"/>
 </>
 )
 }
