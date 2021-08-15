@@ -68,13 +68,11 @@
   
 }
 
-
-
 .content-list{
   font-family: 'Courier New', Courier, monospace;
-  position: relative;
-  left: 30px;
-  top: 0px;
+  position: absolute;
+  left: 350px;
+  top: 235px;
   margin: auto;
   text-align: center;
   color: rgb(253, 175, 188);
@@ -107,7 +105,18 @@
   text-align: center;
   top:0px;
   left: 400px;
+}
 
+.about-img{
+  position: absolute;
+  left: 475px;
+  top: 375px;
+  border: 20px dotted rgb(238, 229, 65);
+  padding: 10px;
+  transition: border .25s;
+}
+.about-img:hover {
+  border: 20px dotted gray; 
 }
 
 .samhall-header {
@@ -115,7 +124,6 @@
   top:0px;
   left: 400px;
   padding: 0px;
-
 }
 
 .email-button {
@@ -139,27 +147,14 @@ border-radius: 5mm;
   
 }
 
-.about-img{
-  position: absolute;
-  left: 475px;
-  top: 400px;
-  border: 20px dotted rgb(238, 229, 65);
-  padding: 10px;
-  transition: border .25s;
-}
-.about-img:hover {
-  border: 20px dotted gray; 
-}
-
 .broadway-tape {
-  position: relative;
+  position: absolute;
   left: 400px;
-  top: 20px;
+  top: 300px;
   bottom: 100px;
   border: 20px dotted rgb(238, 229, 65);
   padding: 10px;
   transition: border .25s;
-  
 }
 
 .broadway-tape:hover {
@@ -167,9 +162,9 @@ border-radius: 5mm;
 }
 
 .broadway-tape-header {
-  position: relative;
+  position: absolute;
   left: 475px;
-  top: 0px;
+  top: 260px;
   color: rgb(253, 175, 188);
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
 }
