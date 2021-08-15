@@ -79,28 +79,6 @@
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
-.email-box {
-  color: rgb(253, 175, 188);
-  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-  padding: 50px;
-  /* margin: auto; */
-  align-content: center;
-  text-align: center;
-  text-decoration: none;
-  display: inline-block;
-  font-size: 24px;
-  position: relative;
-  left: 500px;
-  top: 00px;
-  border: 20px dotted rgb(238, 229, 65);
-  padding: 10px;
-  transition: border .25s;
-}
-
-.email-box:hover {
-  border: 20px dotted gray;
-}
-
 .about-me-header {
   text-align: center;
   top:0px;
@@ -147,6 +125,50 @@ border-radius: 5mm;
   
 }
 
+.email-box {
+  color: rgb(253, 175, 188);
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  padding: 50px;
+  align-content: center;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 24px;
+  position: absolute;
+  left: 500px;
+  top: 485px;
+  border: 20px dotted rgb(238, 229, 65);
+  padding: 30px;
+  transition: border .25s;
+}
+
+.email-box:hover {
+  border: 20px dotted gray;
+}
+
+.social-links {
+  position: relative;
+  top: 0px;
+  margin: auto; 
+  display: inline-block;
+  position: absolute;
+  left: 345px;
+  top: 300px;
+  padding: 10px;
+  transition: border .25s;
+  cursor:pointer
+}
+
+.social-link-img {
+  border-radius: 10%;
+  text-align: center;
+  padding: 20px;
+}
+
+.social-link-img:hover {
+filter: drop-shadow(10px 10px 5px rgb(109, 108, 108));
+}
+
 .broadway-tape {
   position: absolute;
   left: 400px;
@@ -183,35 +205,9 @@ border-radius: 5mm;
   border: 20px dotted gray;
 }
 
-.social-links {
-  position: relative;
-  top: 00px;
-  margin: auto; 
-  /* text-align: center; */
-  /* border: 20px dotted rgb(238, 229, 65); */
-  padding: 10px;
-  left: 345px;
-  transition: border .25s;
-  cursor:pointer
-}
-
 .contact-header {
   top: 50px;
   padding:20px;
-}
-/* 
-.social-link-image:hover {
-  box-shadow: gray;
-} */
-
-.social-link-img {
-  border-radius: 10%;
-  text-align: center;
-  padding: 20px;
-}
-
-.social-link-img:hover {
-filter: drop-shadow(10px 10px 5px rgb(109, 108, 108));
 }
 
 .tour-date-list{

@@ -28,6 +28,7 @@ return(
     <form class="email-box" action="mailto:samhallcomedy@gmail.com" method="post" enctype="text/plain">If you're old, shoot me an email<br></br>     
         <input class ="email-button" type="submit" value="Drop me a line!"/>
     </form>
+    <br></br>
 </>
 
 )
