@@ -22,7 +22,7 @@ return(
         <a href="https://www.facebook.com/samantha.mann.77398143">
             <img class="social-link-img" alt ="facebook logo"  src={facebook}></img>
         </a>
-        <a href="">
+        <a href="https://www.instagram.com/samhallllllllll/">
             <img class="social-link-img" alt ="youtube logo"  src={youtube}></img>
         </a>
     </div>

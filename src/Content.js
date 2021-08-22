@@ -1,5 +1,4 @@
 import React from "react";
-import ReactPlayer from 'react-player'
 import mascara from './mascara-screenshot.jpg'
 import gibs1 from './gibs-ep1.jpg'
 import gibs2 from './gibs-ep2.jpg'
