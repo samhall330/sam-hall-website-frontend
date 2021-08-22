@@ -30,6 +30,7 @@ code {
 
 .navbar .nav-link {
   color: rgb(214, 207, 75);
+  
 }
 
 .navbar .nav-link:hover,
@@ -40,6 +41,7 @@ code {
 
 .navbar .navbar-brand {
   color: rgb(254, 252, 125);
+  text-shadow: .5px .5px rgb(148, 147, 71);
 }
 
 

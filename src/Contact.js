@@ -11,6 +11,7 @@ return(
 <h1 className="contact-header">
     <img src= {contactheader} alt="Slide Into My DMs!" width="500" height="300"></img>
 </h1>
+    <div className="contact-container">
     <div class="social-links">
         <a href="https://www.instagram.com/samhallllllllll/">
             <img class="social-link-img" src={instagram}></img>
@@ -26,9 +27,10 @@ return(
         </a>
     </div>
     <form class="email-box" action="mailto:samhallcomedy@gmail.com" method="post" enctype="text/plain">If you're old, shoot me an email<br></br>     
-        <input class ="email-button" type="submit" value="Drop me a line!"/>
+        <input class ="email-button" type="submit" value="I'm old"/>
     </form>
     <br></br>
+    </div>
 </>
 
 )
