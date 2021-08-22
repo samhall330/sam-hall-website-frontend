@@ -4,7 +4,7 @@ function UpcomingShows(){
 return(
 <>
 <div className="calendar-container">
-  <div class="month">      
+  <div className="month">      
     <ul>
       <li>
         August<br></br>
@@ -12,7 +12,7 @@ return(
       </li>
     </ul>
   </div>
-    <ul class="weekdays">
+    <ul className="weekdays">
       <li>Mon</li>
       <li>Tue</li>
       <li>Wed</li>
@@ -21,7 +21,7 @@ return(
       <li>Sat</li>
       <li>Sun</li>
     </ul>
-    <ul class="days">  
+    <ul className="days">  
       <li>26</li>
       <li>27</li>
       <li>28</li>
@@ -31,7 +31,7 @@ return(
       <li>1</li>
       <li>8</li>
       <li>9</li>
-      <li><span class="active">4</span></li>
+      <li><span className="active">4</span></li>
       <li>5</li>
       <li>6</li>
       <li>7</li>
@@ -60,7 +60,7 @@ return(
       <li>30</li>
       <li>31</li>
     </ul>
-    <ul class= "tour-date-list">
+    <ul className= "tour-date-list">
       <h1>Get Tickets!</h1>
         <li><a href="https://greenwichvillagecomedyclub.com/calendar/2021-08?day=04"> <p>Wednesday, August 4th - Greenwich Village Comedy Club</p></a></li>
     </ul>
