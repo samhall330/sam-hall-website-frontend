@@ -14,16 +14,16 @@ return(
     <div className="contact-container">
     <div class="social-links">
         <a href="https://www.instagram.com/samhallllllllll/">
-            <img class="social-link-img" src={instagram}></img>
+            <img class="social-link-img" alt ="instagram logo" src={instagram}></img>
         </a>
         <a href="https://twitter.com/samhallllllllll">
-            <img class="social-link-img" src={twitter}></img>
+            <img class="social-link-img"  alt ="twitter logo"  src={twitter}></img>
         </a>
         <a href="https://www.facebook.com/samantha.mann.77398143">
-            <img class="social-link-img" src={facebook}></img>
+            <img class="social-link-img" alt ="facebook logo"  src={facebook}></img>
         </a>
         <a href="">
-            <img class="social-link-img" src={youtube}></img>
+            <img class="social-link-img" alt ="youtube logo"  src={youtube}></img>
         </a>
     </div>
     <form class="email-box" action="mailto:samhallcomedy@gmail.com" method="post" enctype="text/plain">If you're old, shoot me an email<br></br>     

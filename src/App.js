@@ -1,9 +1,7 @@
 import React from "react";
 import {
-  BrowserRouter as Router,
   Switch,
   Route,
-  Link
 } from "react-router-dom";
 import './App.css';
 import NavBar from "./NavBar";
@@ -13,7 +11,6 @@ import UpcomingShows from "./UpcomingShows";
 import Contact from "./Contact";
 import Home from "./Home";
 import Header from "./Header";
-import ReactPlayer from "react-player";
 
 function App() {
 
