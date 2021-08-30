@@ -7,7 +7,8 @@ return(
   <div className="month">      
     <ul>
       <li>
-        August<br></br>
+        <br></br>
+        September<br></br>
         <span>2021</span>
       </li>
     </ul>
@@ -31,7 +32,7 @@ return(
       <li>5</li>
       <li>6</li>
       <li>7</li>
-      <li><span className="active">8</span></li>
+      <li>8</li>
       <li>9</li>
       <li>10</li>
       <li>11</li>
@@ -53,11 +54,13 @@ return(
       <li>27</li>
       <li>28</li>
       <li>29</li>
-      <li>30</li>
+      <li><span className="active">30</span></li>
     </ul>
     <ul className= "tour-date-list">
       <h1>Get Tickets!</h1>
-        <li><a href="https://greenwichvillagecomedyclub.com/calendar/2021-08?day=04"> <p>Wednesday, August 4th - Greenwich Village Comedy Club</p></a></li>
+      <br></br>
+        <li><a href="https://www.broadwaycomedyclub.com/events/new-york-queer-comedy-festival-presents-yaaas-fest-2021-09-30210000"> <p>Thursday, September 30th - Broadway Comedy Club - YAAAS! FEST</p></a></li>
+        <li>PROMO CODE: HALL</li>
     </ul>
     <br></br>
 </div>
