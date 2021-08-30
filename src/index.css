@@ -25,7 +25,7 @@ code {
 
 .navbar {
   transition: all 0.4s;
-  background-color: #f7a4d1f2;
+  background-color:rgb(253, 175, 188);
 }
 
 .navbar .nav-link {
@@ -87,6 +87,6 @@ code {
 
 .container {
   top: 500px;
-  background-color: #f7a4d1f2;
+  background-color: rgb(253, 175, 188);
 }
 
