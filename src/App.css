@@ -104,7 +104,7 @@
   position: absolute;
   left: 475px;
   top: 375px;
-  border: 20px dotted rgb(100, 99, 99);
+  border: 20px dotted rgba(122, 121, 121, 0.493);
   padding: 10px;
   transition: border .25s;
 }
@@ -184,7 +184,7 @@ border-radius: 5mm;
   position: absolute;
   left: 500px;
   top: 485px;
-  border: 20px dotted rgb(100, 99, 99);
+  border: 20px dotted rgba(122, 121, 121, 0.493);
   padding: 30px;
   transition: border .25s;
 }
@@ -198,7 +198,7 @@ border-radius: 5mm;
   left: 400px;
   top: 300px;
   bottom: 100px;
-  border: 20px dotted rgb(100, 99, 99);
+  border: 20px dotted rgba(122, 121, 121, 0.493);
   padding: 10px;
   transition: border .25s;
 }
@@ -217,7 +217,7 @@ border-radius: 5mm;
 
 .content-links {
   position: relative;
-  border: 20px dotted rgb(100, 99, 99);
+  border: 20px dotted rgba(122, 121, 121, 0.493);
   padding: 10px;
   transition: border .25s;
   width: 400;
@@ -241,7 +241,7 @@ border-radius: 5mm;
   color: rgb(253, 175, 188);
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   text-shadow: .5px .5px rgb(128, 88, 95);
-  border: 20px dotted rgb(100, 99, 99);
+  border: 20px dotted rgba(122, 121, 121, 0.493);
   padding: 10px;
   transition: border .25s;
 }
