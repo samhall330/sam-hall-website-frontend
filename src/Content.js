@@ -6,6 +6,7 @@ import gibs3 from './gibs-ep3.jpg'
 import scary from './scary-toilet.jpg'
 import mumfights from './mum-fights.jpg'
 import stranger from './killyoustranger.jpg'
+import nfma from './nfma.jpg'
 import mycontent from './my-content-header.jpg'
 
 
@@ -36,6 +37,13 @@ return(
         </a>
         <br></br>
         <h5 className="content-caption">Great Interracial Baking Show - Episode 2 "Buttered Toast" - 2020 (Producer, Editor)</h5>
+    <br></br>
+        <a href="https://www.instagram.com/tv/CFIhh4CgbBU/">
+            <img className="content-links" src={gibs3} alt="the great interracial baking show episode 3" width="600" height="300"></img>
+        </a>
+        <br></br>
+        <h5 className="content-caption">Great Interracial Baking Show - Episode 3 "Caucasian Cornbread" - 2020 (Actor, Producer, Editor)</h5>
+    <br></br>
     <br></br>
         <a href="https://www.instagram.com/tv/CFIhh4CgbBU/">
             <img className="content-links" src={gibs3} alt="the great interracial baking show episode 3" width="600" height="300"></img>
