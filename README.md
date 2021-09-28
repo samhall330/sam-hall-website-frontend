@@ -3,7 +3,7 @@
 
 ![Sam Hall Website Home](samhallwebsite.png)
 
-This single page app is a virtual artist collective in which users can create projects and add other users as collaborators to said projects.
+This single page application is an interactive portfolio displaying my creative work in stand up comedy, sketch comedy, acting, directing, editing and general self-deprecation.
 
 Installation:
 - Fork and clone this repository
