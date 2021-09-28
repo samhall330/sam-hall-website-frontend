@@ -46,10 +46,10 @@ return(
     <br></br>
     <br></br>
         <a href="https://www.instagram.com/tv/CFIhh4CgbBU/">
-            <img className="content-links" src={gibs3} alt="the great interracial baking show episode 3" width="600" height="300"></img>
+            <img className="content-links" src={nfma} alt="news from my apartment series" width="600" height="300"></img>
         </a>
         <br></br>
-        <h5 className="content-caption">Great Interracial Baking Show - Episode 3 "Caucasian Cornbread" - 2020 (Actor, Producer, Editor)</h5>
+        <h5 className="content-caption">News From My Apartment - 2017 to 2019 (Actor, Director, Editor)</h5>
     <br></br>
     <h1>Short Shorts</h1>
         <a href="https://www.instagram.com/p/CFsyxtoAv1j/">
