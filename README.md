@@ -1,7 +1,7 @@
 
 🎞 Welcome to My Website! 🎨
 
-![Sam Hall Website Home](samhallwebsite.jpg)
+![Sam Hall Website Home](samhallwebsite.png)
 
 This single page app is a virtual artist collective in which users can create projects and add other users as collaborators to said projects.
 
