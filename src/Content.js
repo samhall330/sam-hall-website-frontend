@@ -45,7 +45,7 @@ return(
         <h5 className="content-caption">Great Interracial Baking Show - Episode 3 "Caucasian Cornbread" - 2020 (Actor, Producer, Editor)</h5>
     <br></br>
     <br></br>
-        <a href="https://www.instagram.com/tv/CFIhh4CgbBU/">
+        <a href="https://www.youtube.com/channel/UCF31Kv_-VwIV3haJPpStJRw">
             <img className="content-links" src={nfma} alt="news from my apartment series" width="600" height="300"></img>
         </a>
         <br></br>
