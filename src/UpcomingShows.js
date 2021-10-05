@@ -1,4 +1,5 @@
 import React from "react";
+import {Link} from "react-router-dom";
 
 function UpcomingShows(){
 return(
@@ -63,8 +64,12 @@ return(
     <ul className= "tour-date-list">
       <h1>Get Tickets!</h1>
       <br></br>
+      <h3>No upcoming shows... yet 😏</h3>
+      <br></br>
+      <h4>(<Link to="/contact">Book Me!</Link>)</h4>
+      {/* <br></br>
         <li><a href="https://www.broadwaycomedyclub.com/events/new-york-queer-comedy-festival-presents-yaaas-fest-2021-09-30210000"> <p>Thursday, September 30th - Broadway Comedy Club - YAAAS! FEST</p></a></li>
-        <li>PROMO CODE: HALL</li>
+        <li>PROMO CODE: HALL</li> */}
     </ul>
     <br></br>
 </div>
