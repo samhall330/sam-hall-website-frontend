@@ -8,7 +8,7 @@ return(
     <ul>
       <li>
         <br></br>
-        September<br></br>
+        October<br></br>
         <span>2021</span>
       </li>
     </ul>
@@ -23,10 +23,10 @@ return(
       <li>Sun</li>
     </ul>
     <ul className="days">  
+      <li>27</li>
+      <li>28</li>
+      <li>29</li>
       <li>30</li>
-      <li>31</li>
-      <li>1</li>
-      <li>2</li>
       <li>3</li>
       <li>4</li>
       <li>5</li>
