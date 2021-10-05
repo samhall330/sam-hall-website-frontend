@@ -27,6 +27,8 @@ return(
       <li>28</li>
       <li>29</li>
       <li>30</li>
+      <li>1</li>
+      <li>2</li>
       <li>3</li>
       <li>4</li>
       <li>5</li>
@@ -41,8 +43,6 @@ return(
       <li>14</li>
       <li>15</li>
       <li>16</li>
-      <li>17</li>
-      <li>18</li>
       <li>19</li>
       <li>20</li>
       <li>21</li>
