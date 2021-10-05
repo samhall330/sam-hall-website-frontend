@@ -43,6 +43,8 @@ return(
       <li>14</li>
       <li>15</li>
       <li>16</li>
+      <li>17</li>
+      <li>18</li>
       <li>19</li>
       <li>20</li>
       <li>21</li>
@@ -54,7 +56,9 @@ return(
       <li>27</li>
       <li>28</li>
       <li>29</li>
-      <li><span className="active">30</span></li>
+      <li>30</li>
+      <li>31</li>
+      {/* <li><span className="active">30</span></li> */}
     </ul>
     <ul className= "tour-date-list">
       <h1>Get Tickets!</h1>
