@@ -12,6 +12,12 @@ Installation:
 - Run "npm start" 
 
 Navigating the app:
-- Use the NavBar Links to learn more about me and what I do!
+- Use the NavBar Links to learn more about me and what I do:
+    1. About: a brief bio, photo links to instagram.
+    2. Content: links to relevant comedy content.
+    3. Upcoming Shows: a calendar with links to show dates and ticket links
+    4. Contact: Contact info.
+     
+
 
 🎤 Created by Sam Hall 🎭
