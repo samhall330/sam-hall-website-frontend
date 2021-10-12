@@ -59,7 +59,7 @@ return(
       <li>29</li>
       <li>30</li>
       <li>31</li>
-      {/* <li><span className="active">30</span></li> */}
+      <li><span className="active"><a href="https://www.instagram.com/samhallllllllll/">30</a></span></li>
     </ul>
     <ul className= "tour-date-list">
       <h1>Get Tickets!</h1>
@@ -67,9 +67,7 @@ return(
       <h3>No upcoming shows... yet 😏</h3>
       <br></br>
       <h4>(<Link to="/contact">Book Me!</Link>)</h4>
-      {/* <br></br>
-        <li><a href="https://www.broadwaycomedyclub.com/events/new-york-queer-comedy-festival-presents-yaaas-fest-2021-09-30210000"> <p>Thursday, September 30th - Broadway Comedy Club - YAAAS! FEST</p></a></li>
-        <li>PROMO CODE: HALL</li> */}
+     
     </ul>
     <br></br>
 </div>
