@@ -229,6 +229,18 @@ border-radius: 5mm;
   border: 20px dotted rgb(238, 229, 65);
 }
 
+.gallery-image {
+  position: relative;
+  border: 20px dotted rgba(122, 121, 121, 0.493);
+  padding: 10px;
+  transition: border .25s;
+  margin: auto;
+}
+
+.gallery-image:hover {
+  border: 20px dotted rgb(238, 229, 65);
+}
+
 .contact-header {
   top: 50px;
   padding:20px;
