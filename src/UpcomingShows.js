@@ -59,7 +59,7 @@ return(
       <li>29</li>
       <li>30</li>
       <li>31</li>
-      <li><span className="active"><a href="https://www.instagram.com/samhallllllllll/">30</a></span></li>
+      {/* <li><span className="active"><a href="https://www.instagram.com/samhallllllllll/">30</a></span></li> */}
     </ul>
     <ul className= "tour-date-list">
       <h1>Get Tickets!</h1>

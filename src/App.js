@@ -6,6 +6,7 @@ import {
 import './App.css';
 import NavBar from "./NavBar";
 import About from "./About";
+import Gallery from "./Gallery";
 import Content from "./Content";
 import UpcomingShows from "./UpcomingShows";
 import Contact from "./Contact";
@@ -22,6 +23,9 @@ function App() {
     <Switch>
     <Route exact path="/about">
     <About />
+    </Route>
+    <Route exact path="/gallery">
+    <Gallery />
     </Route>
     <Route exact path="/content">
     <Content />
