@@ -64,7 +64,7 @@ return(
     <ul className= "tour-date-list">
       <h1>Get Tickets!</h1>
       <br></br>
-      <h3>The Bareback Show - Talon Bar 10/22</h3>
+      <h3> <a href= "https://www.eventbrite.com/e/the-bareback-show-a-stand-up-comedy-extravaganza-lukes-birthday-tickets-189908430227">The Bareback Show - Talon Bar 10/22</a></h3>
       <br></br>
       <h4>(<Link to="/contact">Book Me!</Link>)</h4>
      
