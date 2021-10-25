@@ -8,6 +8,7 @@ import mumfights from './mum-fights.jpg'
 import stranger from './killyoustranger.jpg'
 import nfma from './nfma.jpg'
 import mycontent from './my-content-header.jpg'
+import ReactPlayer from "react-player";
 
 
 function Content(){
@@ -18,6 +19,13 @@ return(
 </h1>
 
 <div className= "content-list">
+    <h1>Sets!</h1>
+        <ReactPlayer class="broadway-tape"url="https://youtu.be/Jo-AXTqQAME"/>
+            <img className="content-links" src={mascara} alt="tape of a stand up set by Sam Hall" width="600" height="300"></img>
+        
+        <br></br>
+        <h5 className="content-caption">Broadway Comedy Club Industry Room Showcase- 2021 (Writer, Performer)</h5>
+    <br></br>
     <h1>Hot Bits!</h1>
         <a href="https://www.instagram.com/tv/B-L8ACeA7UT/">
             <img className="content-links" src={mascara} alt="audio recording of a stand up bit by Sam Hall" width="600" height="300"></img>
