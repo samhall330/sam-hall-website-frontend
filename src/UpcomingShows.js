@@ -49,7 +49,7 @@ return(
       <li>19</li>
       <li>20</li>
       <li>21</li>
-      <li>22</li>
+      <li><span className="active"><a href="https://www.eventbrite.com/e/the-bareback-show-a-stand-up-comedy-extravaganza-lukes-birthday-tickets-189908430227">22</a></span></li>
       <li>23</li>
       <li>24</li>
       <li>25</li>
@@ -64,7 +64,7 @@ return(
     <ul className= "tour-date-list">
       <h1>Get Tickets!</h1>
       <br></br>
-      <h3>No upcoming shows... yet 😏</h3>
+      <h3>The Bareback Show - Talon Bar 10/22</h3>
       <br></br>
       <h4>(<Link to="/contact">Book Me!</Link>)</h4>
      
