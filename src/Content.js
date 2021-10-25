@@ -20,9 +20,7 @@ return(
 
 <div className= "content-list">
     <h1>Sets!</h1>
-        <ReactPlayer class="broadway-tape"url="https://youtu.be/Jo-AXTqQAME"/>
-            <img className="content-links" src={mascara} alt="tape of a stand up set by Sam Hall" width="600" height="300"></img>
-        
+        <ReactPlayer className="content-links"url="https://youtu.be/Jo-AXTqQAME"/>
         <br></br>
         <h5 className="content-caption">Broadway Comedy Club Industry Room Showcase- 2021 (Writer, Performer)</h5>
     <br></br>
