@@ -29,7 +29,7 @@ function Gallery(){
             <img className="gallery-image" src={barebackShow2} alt="sam hall at bareback show october 2021" width="700" height="500"></img>
             </a>
             <br></br>
-            <h5 className="content-caption">Bareback Show - Talon Bar, Bushwick - October 22, 2021</h5>
+            <h5 className="content-caption">Bareback Show w/ <a href= "https://www.instagram.com/denydurkle/">Destiny Dunkle</a> - Talon Bar, Bushwick - October 22, 2021</h5>
         </div>
     )}
 
