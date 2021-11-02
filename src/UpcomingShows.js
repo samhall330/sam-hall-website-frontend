@@ -9,7 +9,7 @@ return(
     <ul>
       <li>
         <br></br>
-        October<br></br>
+        November<br></br>
         <span>2021</span>
       </li>
     </ul>
@@ -24,10 +24,6 @@ return(
       <li>Sun</li>
     </ul>
     <ul className="days">  
-      <li>27</li>
-      <li>28</li>
-      <li>29</li>
-      <li>30</li>
       <li>1</li>
       <li>2</li>
       <li>3</li>
@@ -58,7 +54,6 @@ return(
       <li>28</li>
       <li>29</li>
       <li>30</li>
-      <li>31</li>
       {/* <li><span className="active"><a href="https://www.instagram.com/samhallllllllll/">30</a></span></li> */}
     </ul>
     <ul className= "tour-date-list">
