@@ -13,11 +13,19 @@ function Gallery(){
       
         <section class="carousel">
           <div class="slides">
-            <div class="slides-item slide-1" id="slide-1">1</div>
-            <div class="slides-item slide-2" id="slide-2">2</div>
-            <div class="slides-item slide-3" id="slide-3">3</div>
-            <div class="slides-item slide-4" id="slide-4">4</div>
-            <div class="slides-item slide-5" id="slide-5">5</div>       
+            <div class="slides-item slide-1" id="slide-1">
+                <img src={barebackShow3} alt="sam hall at bareback show october 2021" width="700" height="500"></img>
+            </div>
+            <div class="slides-item slide-2" id="slide-2">
+                <img src={barebackShow} alt="sam hall at bareback show october 2021" width="500" height="500"></img>
+            </div>
+            <div class="slides-item slide-3" id="slide-3">
+                <img src={barebackShow2} alt="sam hall and destiny dunkle at bareback show october 2021" width="700" height="500"></img>
+            </div>
+            <div class="slides-item slide-4" id="slide-4">
+                <img src={samYAS1} alt="sam hall at yaaas fest 2021" width="700" height="500"></img>
+            </div>
+            <div class="slides-item slide-5" id="slide-5"></div>       
           </div>
           <div class="carousel__nav">
             <a class="slider-nav" href="#slide-1">1</a>
