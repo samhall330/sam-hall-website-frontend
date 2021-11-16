@@ -39,28 +39,28 @@ body {
   }
   
   .carousel__nav {
-    padding: 1.25rem .5rem;
+    padding: .1rem .1rem;
   }
   
   .slider-nav {
     align-items: center;
     background-color: rgba(122, 121, 121, 0.493);
     border-radius: 50%;
-    color: #000;
+    color: rgb(250, 248, 248);
     display: inline-flex;
-    height: 1.5rem;
+    height: 3.5rem;
     justify-content: center;
     padding: .5rem;
     position: relative;
     text-decoration: none;
-    width: 1.5rem;
-    transition: border .25s;
+    width: 3.5rem;
+    transition: .25s; 
   }
   
   .slider-nav:hover,
   .slider-nav:active {
     background-color: rgb(238, 229, 65);
-    color: rgba(122, 121, 121, 0.493);
+    color: #fff;
   }
    
   .carousel__skip-link {
