@@ -25,7 +25,9 @@ function Gallery(){
             <div class="slides-item slide-4" id="slide-4">
                 <img src={samYAS1} alt="sam hall at yaaas fest 2021" width="700" height="500"></img>
             </div>
-            <div class="slides-item slide-5" id="slide-5"></div>       
+            <div class="slides-item slide-5" id="slide-5">
+                <img src={samYAS2} alt="sam hall at YAAAS fest 2021" width="700" height="500"></img>    
+            </div>       
           </div>
           <div class="carousel__nav">
             <a class="slider-nav" href="#slide-1">1</a>

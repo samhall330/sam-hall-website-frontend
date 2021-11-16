@@ -61,27 +61,7 @@ body {
     background-color: #000;
     color: #fff;
   }
-  
-  .slide-1 {
-    background-color: #fdc;
-  }
-  
-  .slide-2 {
-    background-color: #bfd;
-  }
-  
-  .slide-3 {
-    background-color: #cdf;
-  }
-  
-  .slide-4 {
-    background-color: #dca;
-  }
-  
-  .slide-5 {
-    background-color: #ffc;
-  }
-  
+   
   .carousel__skip-link {
     height: 1px;
     overflow: hidden;
