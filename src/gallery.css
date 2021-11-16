@@ -44,7 +44,7 @@ body {
   
   .slider-nav {
     align-items: center;
-    background-color: #ddd;
+    background-color: rgba(122, 121, 121, 0.493);
     border-radius: 50%;
     color: #000;
     display: inline-flex;
@@ -54,12 +54,13 @@ body {
     position: relative;
     text-decoration: none;
     width: 1.5rem;
+    transition: border .25s;
   }
   
   .slider-nav:hover,
   .slider-nav:active {
-    background-color: #000;
-    color: #fff;
+    background-color: rgb(238, 229, 65);
+    color: rgba(122, 121, 121, 0.493);
   }
    
   .carousel__skip-link {
