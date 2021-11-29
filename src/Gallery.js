@@ -5,12 +5,15 @@ import barebackShow from "./bareback-show-pic.jpeg"
 import barebackShow2 from "./bareback-show-2.png"
 import barebackShow3 from "./bareback-show-3.png"
 import "./gallery.css"
+import gallerytitle from "./Gallery.JPG"
 
 function Gallery(){
     return(
 
 <>
-      
+<h1 className="title-header">
+    <img src={gallerytitle} alt="My Content" width="400" height="400"></img>
+</h1>
         <section class="carousel">
           <div class="slides">
             <div class="slides-item slide-1" id="slide-1">
