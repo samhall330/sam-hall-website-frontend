@@ -22,10 +22,14 @@ function Gallery(){
                 </a>
             </div>
             <div class="slides-item slide-2" id="slide-2">
-                <img className="gallery-image" src={barebackShow} alt="sam hall at bareback show october 2021" width="500" height="500"></img>
+                <a href ="https://www.eventbrite.com/e/the-bareback-show-a-stand-up-comedy-extravaganza-lukes-birthday-tickets-189908430227">
+                    <img className="gallery-image" src={barebackShow} alt="sam hall at bareback show october 2021" width="500" height="500"></img>
+                </a>
             </div>
             <div class="slides-item slide-3" id="slide-3">
-                <img className="gallery-image" src={barebackShow2} alt="sam hall and destiny dunkle at bareback show october 2021" width="700" height="500"></img>
+                <a href ="https://www.eventbrite.com/e/the-bareback-show-a-stand-up-comedy-extravaganza-lukes-birthday-tickets-189908430227">
+                    <img className="gallery-image" src={barebackShow2} alt="sam hall and destiny dunkle at bareback show october 2021" width="700" height="500"></img>
+                </a>
             </div>
             <div class="slides-item slide-4" id="slide-4">
                 <img className="gallery-image" src={samYAS1} alt="sam hall at yaaas fest 2021" width="700" height="500"></img>
