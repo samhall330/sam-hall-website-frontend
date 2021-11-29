@@ -5,19 +5,21 @@ import barebackShow from "./bareback-show-pic.jpeg"
 import barebackShow2 from "./bareback-show-2.png"
 import barebackShow3 from "./bareback-show-3.png"
 import "./gallery.css"
-import gallerytitle from "./Gallery2.PNG"
+import gallerytitle from "./gallery-title.PNG"
 
 function Gallery(){
     return(
 
 <>
 <h1 className="title-header">
-    <img src={gallerytitle} alt="My Content" width="500" height="400"></img>
+    <img src={gallerytitle} alt="My Content" width="400" height="300"></img>
 </h1>
         <section class="carousel">
           <div class="slides">
             <div class="slides-item slide-1" id="slide-1">
-                <img className="gallery-image" src={barebackShow3} alt="sam hall at bareback show october 2021" width="700" height="500"></img>
+                <a href ="https://www.eventbrite.com/e/the-bareback-show-a-stand-up-comedy-extravaganza-lukes-birthday-tickets-189908430227">
+                    <img className="gallery-image" src={barebackShow3} alt="sam hall at bareback show october 2021" width="700" height="500"></img>
+                </a>
             </div>
             <div class="slides-item slide-2" id="slide-2">
                 <img className="gallery-image" src={barebackShow} alt="sam hall at bareback show october 2021" width="500" height="500"></img>
